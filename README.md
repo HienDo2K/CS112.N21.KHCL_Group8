@@ -26,7 +26,7 @@
 
 | STT   | Họ tên                 | MSSV       | Vai trò     | Email                  | 
 | :---: | ---                    | ---        | ---         | ---                    | 
-| 1     | <strong> Đỗ Thị Thanh Hiền </strong> | 19520078 | Nhóm trưởng | 19520089@gm.uit.edu.vn |            
+| 1     | <strong> Đỗ Thị Thanh Hiền </strong> | 19520078 | Nhóm trưởng | 19520078@gm.uit.edu.vn |            
 | 2     | <strong> Nguyễn Quốc Hưng | 21520253 | Thành viên | 21520253@gm.uit.edu.vn | 
 | 3     | <strong> Phạm Thị Trâm Anh | 21520146 | Thành viên | 21520146@gm.uit.edu.vn | 
  
