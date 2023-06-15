@@ -11,7 +11,7 @@ CS112.N21.KHCL - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
 **Giới thiệu nhóm
 
 
-Chủ đề báo cáo
+
 
 # GIỚI THIỆU MÔN HỌC
 
