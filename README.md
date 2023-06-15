@@ -4,16 +4,16 @@ CS112@CS.UIT - Design and analysis of algorithms
 CS112.N21.KHCL - PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN
 
 
-BẢNG MỤC LỤC
+# BẢNG MỤC LỤC
 
-Giới thiệu môn học
+**Giới thiệu môn học 
 
-Giới thiệu nhóm
+**Giới thiệu nhóm
 
 
 Chủ đề báo cáo
 
-GIỚI THIỆU MÔN HỌC
+# GIỚI THIỆU MÔN HỌC
 
 Tên môn học: PHÂN TÍCH VÀ THIẾT KẾ THUẬT TOÁN - ALGORITHM ANALYSIS AND DESIGN
 
@@ -25,12 +25,11 @@ Năm học: HK2 (2022 - 2023)
 
 Giảng viên: Ths. Nguyễn Thanh Sơn - sonnt@uit.edu.vn 
 
+# GIỚI THIỆU NHÓM
 
-#GIỚI THIỆU NHÓM
+### Số thứ tự nhóm: 8
 
-Số thứ tự nhóm: 8
-
-STT	Họ tên	MSSV	Vai trò	Email
+STT	Họ tên	          MSSV	    Vai trò	      Email
 
 1	Đỗ Thị Thanh Hiền	19520078	Nhóm trưởng	19520078@gm.uit.edu.vn
 
@@ -41,7 +40,7 @@ STT	Họ tên	MSSV	Vai trò	Email
 
 
 
-CHỦ ĐỀ BÁO CÁO
+# CHỦ ĐỀ BÁO CÁO
 
 **Tên chủ đề: Luyện tập thiết kế thuật toán 3
 
